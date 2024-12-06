@@ -1,5 +1,5 @@
 {
-  "name": "Governor",
+  "name": "Governor Addon",
   "version": "0.1.0",
   "slug": "governor_addon",
   "description": "An add-on for managing energy devices with dynamic tarrifs",
